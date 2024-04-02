@@ -1,0 +1,14 @@
+{
+  "recommendations": [
+    "golang.go",
+    "streetsidesoftware.code-spell-checker",
+    "aaron-bond.better-comments",
+    "shardulm94.trailing-spaces",
+    "mikestead.dotenv",
+    "redhat.vscode-yaml",
+    "editorconfig.editorconfig",
+    "exiasr.hadolint",
+    "timonwong.shellcheck",
+    "esbenp.prettier-vscode"
+  ]
+}
